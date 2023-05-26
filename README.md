@@ -14,7 +14,7 @@ The code will be coming soon.
 
 ### Results about Robustness 
 
-Visual comparisons of our **CRoSS** and other methods under two real-world degradations, namely `WeChat` and `Shoot`. Obviously, our method can reconstruct the content of secret images, while other methods exhibit significant color distortion or have completely failed. 
+Following are visual comparisons of our **CRoSS** and other methods under two real-world degradations, namely `WeChat` and `Shoot`. Obviously, our method can reconstruct the content of secret images, while other methods exhibit significant color distortion or have completely failed. 
 
 *Details and more results can be found in our paper.*
 
