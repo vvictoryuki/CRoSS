@@ -6,7 +6,7 @@ The official implementation of the paper:
 
 By [Jiwen Yu](https://vvictoryuki.github.io/website/), [Xuanyu Zhang](https://villa.jianzhang.tech/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/), [Youmin Xu](https://zirconium2159.github.io/), [Jian Zhang](https://jianzhang.tech/).
 
-![](.\method-cross-v2_00.png)
+![](./method-cross-v2_00.png)
 
 Inspired by recent developments in diffusion models, we propose a novel image steganography framework named **<u>C</u>**ontrollable, **<u>Ro</u>**bust, and **<u>S</u>**ecure Image **<u>S</u>**teganography (**<u>CRoSS</u>**). This framework offers significant advantages in **controllability** over container images, **robustness** against complex degradation during transmission of container images, and enhanced **security** compared to cover-based image steganography methods. Importantly, these benefits are achieved **without requiring additional training**.
 
@@ -16,7 +16,7 @@ Visual comparisons of our **CRoSS** and other methods under two real-world degra
 
 *Details and more results can be found in our paper.*
 
-![](.\robust_00.png)
+![](./robust_00.png)
 
 ### Results about <u>Security</u> 
 
@@ -24,7 +24,7 @@ Following are deep steganalysis results by the latest [SID](http://www.ws.bingha
 
 *Details and more results can be found in our paper.*
 
-![](.\security.png)
+![](./security.png)
 
 ### Citation
 
