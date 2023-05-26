@@ -9,6 +9,7 @@ By [Jiwen Yu](https://vvictoryuki.github.io/website/), [Xuanyu Zhang](https://vi
 ![](./method-cross-v2_00.png)
 
 Inspired by recent developments in diffusion models, we propose a novel image steganography framework named **<u>C</u>**ontrollable, **<u>Ro</u>**bust, and **<u>S</u>**ecure Image **<u>S</u>**teganography (**<u>CRoSS</u>**). This framework offers significant advantages in **controllability** over container images, **robustness** against complex degradation during transmission of container images, and enhanced **security** compared to cover-based image steganography methods. Importantly, these benefits are achieved **without requiring additional training**.
+The code will be coming soon.
 
 ### Results about <u>Robustness</u> 
 
