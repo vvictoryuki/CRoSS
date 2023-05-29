@@ -2,7 +2,7 @@
 
 The official implementation of the paper:
 
-"**CRoSS**: Diffusion Model Makes **C**ontrollable, **Ro**bust and **S**ecure Image **S**teganography"
+["**CRoSS**: Diffusion Model Makes **C**ontrollable, **Ro**bust and **S**ecure Image **S**teganography"](https://arxiv.org/abs/2305.16936)
 
 By [Jiwen Yu](https://vvictoryuki.github.io/website/), [Xuanyu Zhang](https://villa.jianzhang.tech/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/), [Youmin Xu](https://zirconium2159.github.io/), [Jian Zhang](https://jianzhang.tech/).
 
@@ -30,4 +30,13 @@ Following are deep steganalysis results by the latest [SID](http://www.ws.bingha
 
 ### Citation
 
-coming soon ...
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+
+```
+@article{yu2023freedom,
+title={CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography},
+author={Yu, Jiwen and Zhang, Xuanyu and Xu, Youmin and Zhang, Jian},
+journal={arXiv:2305.16936},
+year={2023}
+}
+```
