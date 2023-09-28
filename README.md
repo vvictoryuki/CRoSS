@@ -14,6 +14,12 @@
 - **_News (2023-09-28)_**: 🎉🎉🎉 Our code has been released!
 - **_News (2023-09-22)_**: 🎉🎉🎉 Congratulations on CRoSS being accepted by NeurIPS 2023! Our open-source project is making progress, stay tuned for updates!
 
+## Setup
+Try the command:
+```bash
+pip install -r requirements.txt
+```
+
 ## Quick Run
 ```bash
 python demo.py --image_path ./asserts/1.png --private_key "Effiel tower" --public_key "a tree" --save_path ./output --num_steps 50
