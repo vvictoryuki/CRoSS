@@ -44,7 +44,7 @@ If this work is helpful for your research, please consider citing the following 
 @article{yu2023freedom,
 title={CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography},
 author={Yu, Jiwen and Zhang, Xuanyu and Xu, Youmin and Zhang, Jian},
-journal={arXiv:2305.16936},
+journal={Advances in Neural Information Processing Systems (NeurIPS)},
 year={2023}
 }
 ```
