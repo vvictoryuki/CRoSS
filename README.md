@@ -16,7 +16,7 @@
 
 ## Quick Run
 ```bash
-ls -la
+python demo.py --image_path ./asserts/1.png --private_key "Effiel tower" --public_key "a tree" --save_path ./output --num_steps 50
 ```
 Feel free to try it on your own images and keys. More sampling steps usually lead to better results.
 
