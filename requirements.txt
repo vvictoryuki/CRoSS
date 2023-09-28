@@ -1,0 +1,5 @@
+torch
+transformers==4.33.2
+diffusers==0.21.2
+huggingface-hub==0.17.2
+safetensors==0.3.3
