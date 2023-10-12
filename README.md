@@ -53,7 +53,7 @@ Following are deep steganalysis results by the latest [SID](http://www.ws.bingha
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 
 ```
-@article{yu2023freedom,
+@article{yu2023cross,
 title={CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography},
 author={Yu, Jiwen and Zhang, Xuanyu and Xu, Youmin and Zhang, Jian},
 journal={Advances in Neural Information Processing Systems (NeurIPS)},
