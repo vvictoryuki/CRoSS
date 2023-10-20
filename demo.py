@@ -229,7 +229,8 @@ if __name__ == "__main__":
     cv2.imwrite("{:s}/hide.png".format(args.save_path), cv2.cvtColor(image_hide, cv2.COLOR_RGB2BGR))
     
     # reveal process
-    latent_noise = ode.invert(rev_prompt_2, image_hide_latent, is_forward=True)
+    image_hide_latent_reveal = ode.image2latent(image_hide)
+    latent_noise = ode.invert(rev_prompt_2, image_hide_latent_reveal, is_forward=True)
 
     image_reverse_latent = ode.invert(rev_prompt_1, latent_noise, is_forward=False)
     image_reverse = ode.latent2image(image_reverse_latent)
