@@ -11,7 +11,7 @@
 </div>
 
 ## News
-- **_News (2023-09-28)_**: 🎉🎉🎉 Our Stego260 has been released [here](https://drive.google.com/file/d/1dJKbq3IkTgsI6aJHK0Yo0Kx3YWvmaj1b/view?usp=sharing). The image-prompt pair can be downloaded [here](https://docs.google.com/spreadsheets/d/1dMwlwkTGEkuXfSP_IUgM-YO5OjF6ttEw/edit?usp=sharing&ouid=116439649295185077075&rtpof=true&sd=true).
+- **_News (2023-06-12)_**: 🎉🎉🎉 Our Stego260 has been released [here](https://drive.google.com/file/d/1dJKbq3IkTgsI6aJHK0Yo0Kx3YWvmaj1b/view?usp=sharing). The image-prompt pair can be downloaded [here](https://docs.google.com/spreadsheets/d/1dMwlwkTGEkuXfSP_IUgM-YO5OjF6ttEw/edit?usp=sharing&ouid=116439649295185077075&rtpof=true&sd=true).
 - **_News (2023-09-28)_**: 🎉🎉🎉 Our code has been released!
 - **_News (2023-09-22)_**: 🎉🎉🎉 Congratulations on CRoSS being accepted by NeurIPS 2023! Our open-source project is making progress, stay tuned for updates!
 
